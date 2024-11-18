@@ -1,0 +1,9 @@
+RescuNet/
+├── README.md
+├── src/
+│   ├── backend/  # Server-side logic
+│   ├── frontend/ # User interface
+│   ├── models/   # AI models for image processing
+├── data/         # Sample input and test images
+├── scripts/      # Helper scripts for deployment
+└── docs/         # Documentation and resources
